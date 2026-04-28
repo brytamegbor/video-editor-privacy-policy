@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Privacy Policy"
+title: "video-editor-privacy-policy"
 exclude: true
 ---
 
